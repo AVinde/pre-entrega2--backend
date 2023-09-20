@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0,
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 25,
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "productazo",
+    "description": "Nuevo producto prueba",
+    "price": 500,
+    "thumbnail": "Sin imagen",
+    "code": "abc150",
+    "stock": 50,
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc155",
+    "stock": 25,
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc156",
+    "stock": 25,
+    "status": true
+  },
+  {
+    "id": 5,
+    "title": "Andes Origen Rubia",
+    "description": "473ml",
+    "price": 300,
+    "thumbnail": "Sin imagen",
+    "code": "abc157",
+    "stock": 30,
+    "status": true
+  },
+  {
+    "id": 6,
+    "title": "Andes Origen Rubia",
+    "description": "473ml",
+    "price": 300,
+    "thumbnail": "Sin imagen",
+    "code": "abc158",
+    "stock": 30,
+    "status": true
+  },
+  {
+    "id": 7,
+    "title": "Andes Origen IPA",
+    "description": "473ml",
+    "price": 300,
+    "thumbnail": "Sin imagen",
+    "code": "abc159",
+    "stock": 30,
+    "status": true
+  },
+  {
+    "id": 8,
+    "title": "Andes Origen IPA",
+    "description": "473ml",
+    "price": 300,
+    "thumbnail": "Sin imagen",
+    "code": "abc160",
+    "stock": 30,
+    "status": true
+  },
+  {
+    "id": 9,
+    "title": "Andes Origen Roja IPA",
+    "description": "473ml",
+    "price": 300,
+    "thumbnail": "Sin imagen",
+    "code": "abc161",
+    "stock": 30,
+    "status": true
+  },
+  {
+    "id": 10,
+    "title": "1",
+    "description": "1",
+    "price": "1",
+    "thumbnail": "1",
+    "code": "1",
+    "stock": "1",
+    "status": true
+  }
+]
